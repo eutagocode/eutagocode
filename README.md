@@ -19,10 +19,8 @@
   <img style="border-radius: 5px;" height="64" src="./icons/css.svg" alt="CSS"/>
   <img style="border-radius: 5px;" height="64" src="./icons/javascript.svg" alt="Javascript"/>
 </div>
-<!-- 
----
 
 ## ⭐ Informações sobre minha conta GitHub
 
-[![card](https://github-readme-stats.vercel.app/api?username=eutago&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![eutago](https://github-readme-stats.vercel.app/api/top-langs/?username=eutago&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![card](https://github-readme-stats.vercel.app/api?username=eutagocode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![eutagocode](https://github-readme-stats.vercel.app/api/top-langs/?username=eutagocode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

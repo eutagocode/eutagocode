@@ -18,6 +18,7 @@
   <img style="border-radius: 5px;" height="64" src="./icons/html.svg" alt="HTML5"/>
   <img style="border-radius: 5px;" height="64" src="./icons/css.svg" alt="CSS"/>
   <img style="border-radius: 5px;" height="64" src="./icons/javascript.svg" alt="Javascript"/>
+  <img style="border-radius: 5px;" height="64" src="./icons/nodejs.svg" alt="NodeJS"/>
 </div>
 
 ## ⭐ Informações sobre minha conta GitHub

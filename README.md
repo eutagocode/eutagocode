@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é **Thiago Luiz!**
+## <img height="24" src="./icons/foguete.gif" alt="foguete"/> Olá, meu nome é **Thiago Luiz!**
 
 > Sou um **Desenvolvedor** apaixonado por tecnologia, dedicado, com muita sede de aprender
 > e se aprimorar cada vez mais.

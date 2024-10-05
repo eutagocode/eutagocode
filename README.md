@@ -3,7 +3,7 @@
 > Sou um **Desenvolvedor** apaixonado por tecnologia, dedicado, com muita sede de aprender
 > e se aprimorar cada vez mais.
 
--   🔭 Atualmente estou estudando sobre **Desenvolvimento Web** tentando me aperfeiçoar a
+-   🔭 Atualmente estou estudando sobre **Desenvolvimento Web** me aperfeiçoando a
     cada dia mais.
 
 -   📫 Como chegar até mim: **thiagoluix21@gmail.com**.

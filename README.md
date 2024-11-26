@@ -19,6 +19,7 @@
   <img style="border-radius: 5px;" height="64" src="./icons/css.svg" alt="CSS"/>
   <img style="border-radius: 5px;" height="64" src="./icons/javascript.svg" alt="Javascript"/>
   <img style="border-radius: 5px;" height="64" src="./icons/nodejs.svg" alt="NodeJS"/>
+  <img style="border-radius: 5px;" height="64" src="./icons/mongodb.svg" alt="MongoDB"/>
 </div>
 
 ## ⭐ Informações sobre minha conta GitHub

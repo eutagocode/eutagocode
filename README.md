@@ -29,6 +29,7 @@
   <img style="border-radius: 5px;" height="32" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img style="border-radius: 5px;" height="32" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img style="border-radius: 5px;" height="32" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="LoginJWT"/>
+  <img style="border-radius: 5px;" height="32" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="LoginJWT"/>
 </div>
 
 ## ⭐ Informações sobre minha conta GitHub
